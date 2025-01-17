@@ -2,3 +2,7 @@ streamlit
 pandas
 matplotlib
 prophet
+statsmodels
+tensorflow
+scikit-learn
+numpy
